@@ -1,9 +1,0 @@
-https://mrproof.blogspot.com/2013/02/exercice-compte-bancaire-java-classes.html
-
-https://www.developpez.net/forums/d1578351/general-developpement/alm/modelisation/uml/avis-diagramme-classe-gestion-comptes-bancaires/
-
-https://www.slideshare.net/megaplanet20/uml-diagrammes-declassesconceptsdebase41
-
-
-http://www.grand-patrice.fr/drupal/tpcompte
-
